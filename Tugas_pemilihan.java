@@ -64,7 +64,7 @@ public class Tugas_pemilihan {
         System.out.print("Nilai Akhir  : " + nilaiAkhir);
         System.out.println("\n");
         System.out.println("Nilai Huruf  : " + nilaiHuruf);
-        System.out.println("Keterangan   : " + keterangan);
+        System.out.println(keterangan);
         input.close();
     }
 }
